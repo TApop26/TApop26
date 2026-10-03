@@ -1,6 +1,6 @@
 ### Hi, I'm Tudor Pop
 
-I'm a 2nd-year Artificial Intelligence student at Babeș-Bolyai University (UBB) in Cluj-Napoca. I'm currently an AI & DevOps intern at Computacenter, where I work on an AIOps agent built with LangGraph and MCP, running on Azure Kubernetes Service. I placed 3rd at PoliHack v19 and won a bronze medal at the Romanian National Mathematics Olympiad (2025).
+I'm a 2nd-year Artificial Intelligence student at Babeș-Bolyai University (UBB) in Cluj-Napoca. Until September 2026 I was an AI & DevOps intern at Computacenter, where I worked on an AIOps agent built with LangGraph and MCP, running on Azure Kubernetes Service. I placed 3rd at PoliHack v19 and won a bronze medal at the Romanian National Mathematics Olympiad (2025).
 
 #### Featured projects
 
